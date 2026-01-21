@@ -31,7 +31,7 @@ Key insights delivered through the Power BI dashboard include:
 * **Forecasting**: Predicted rise in tourist arrivals up to early 2025, followed by a gradual decline
 
 📄 **Dashboard (PDF)**
-➡️ `dashboard/Malaysia_Tourist_Arrival_Dashboard.pdf`
+➡️ [dashboard/Malaysia_Tourist_Arrival_Dashboard.pdf](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard/blob/main/dashboard/Malaysia%20Tourist%20Arrival%20Dashboard.pdf) 
 
 ---
 
@@ -40,19 +40,19 @@ Key insights delivered through the Power BI dashboard include:
 Each phase of the analytics pipeline is documented separately to reflect structured, professional practice:
 
 ### 1️⃣ Data Ingestion & Integration
-📄 `documentation/01_data_ingestion_integration.pdf`
+📄 [documentation/01_data_ingestion_integration.pdf](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard/blob/main/documentation/01_data_ingestion_integration.pdf)
 
 ### 2️⃣ Data Cleaning & Preprocessing
-📄 `documentation/02_data_cleaning_preprocessing.pdf`
+📄 [documentation/02_data_cleaning_preprocessing.pdf](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard/blob/main/documentation/02_data_cleaning_preprocessing.pdf)
 
 ### 3️⃣ Data Visualization & Storytelling
-📄 `documentation/03_data_visualization_storytelling.pdf`
+📄 [documentation/03_data_visualization_storytelling.pdf](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard/blob/main/documentation/03_data_visualization_storytelling.pdf)
 
 ### 4️⃣ AI-Driven Analytics
-📄 `documentation/04_ai_driven_analytics.pdf`
+📄 [documentation/04_ai_driven_analytics.pdf](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard/blob/main/documentation/04_ai_driven_analytic.pdf)
 
 ### 5️⃣ Insights & Recommendations
-📄 `documentation/05_insights_recommendations.pdf`
+📄 [documentation/05_insights_recommendations.pdf](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard/blob/main/documentation/05_insights_recommendations.pdf)
 
 ---
 ## 🛠 Tools & Technologies
