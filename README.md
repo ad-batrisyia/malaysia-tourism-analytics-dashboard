@@ -42,24 +42,19 @@ Each phase of the analytics pipeline is documented separately to reflect structu
 ### 1️⃣ Data Ingestion & Integration
 📄 `documentation/01_data_ingestion_integration.pdf`
 
----
 ### 2️⃣ Data Cleaning & Preprocessing
 📄 `documentation/02_data_cleaning_preprocessing.pdf`
 
----
 ### 3️⃣ Data Visualization & Storytelling
 📄 `documentation/03_data_visualization_storytelling.pdf`
 
----
 ### 4️⃣ AI-Driven Analytics
 📄 `documentation/04_ai_driven_analytics.pdf`
 
----
 ### 5️⃣ Insights & Recommendations
 📄 `documentation/05_insights_recommendations.pdf`
 
 ---
-
 ## 🛠 Tools & Technologies
 
 * **Power BI Desktop**
